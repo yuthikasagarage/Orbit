@@ -1,5 +1,7 @@
 # Orbit
-## Orbit - white_label_e-commerce web-app with react, node, mongodb stack.
+
+## Orbit - White_Label_E-commerce Web-App with Reactjs, Nodejs, Mongodb stack.
+
 ### Higly Customizable,
 
 Fully integrated REST-API
@@ -7,4 +9,3 @@ Fully integrated REST-API
 Stripe and PayPal Support
 
 REDUX - state management
-
