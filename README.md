@@ -4,8 +4,13 @@
 
 ### Higly Customizable,
 
-Fully integrated REST-API
+### Fully integrated REST-API
+  
+1. Stripe and PayPal Support  
+2. REDUX - State Management
+3. Fully Responsive
 
-Stripe and PayPal Support
-
-REDUX - state management
+![Home Page](https://github.com/yuthikasagarage/orbit/blob/main/1.jpg)
+![Product Page](https://github.com/yuthikasagarage/orbit/blob/main/2.jpg)
+![Mobile Home](https://github.com/yuthikasagarage/orbit/blob/main/4.jpg)
+![Mobile Product](https://github.com/yuthikasagarage/orbit/blob/main/3.jpg)
