@@ -5,7 +5,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 const Header = () => {
   return (
     <header>
-      <Navbar bg='dark' variant='dark' collapseOnSelect expand='true'>
+      <Navbar bg='primary' variant='dark' expand='lg md'>
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>Orbit</Navbar.Brand>

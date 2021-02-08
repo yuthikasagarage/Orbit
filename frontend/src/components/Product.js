@@ -25,7 +25,7 @@ const Product = ({ product }) => {
         color='#f7a835'
       />
 
-      <Card.Text as='h3'>${product.price}</Card.Text>
+      <Card.Text as='h5'>${product.price}</Card.Text>
     </Card>
   );
 };
